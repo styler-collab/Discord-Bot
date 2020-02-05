@@ -29,7 +29,6 @@ client.on('message', async msg => {
                     if(speaking){
                         const audioStream = reciever.createPCMStream(user);
                         
-                        audioStream.
 
                     }
                 })
