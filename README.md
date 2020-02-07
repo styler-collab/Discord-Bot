@@ -4,9 +4,13 @@ Random Fact bot
 TO USE THIS BOT:
 
 Install: 
+
 node.js
+
 discord.js
+
 npm install node-fetch --save
+
 
 Next:
 add your discord bot token to token.json in the constants folder
