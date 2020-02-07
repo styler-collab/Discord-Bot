@@ -5,11 +5,11 @@ TO USE THIS BOT:
 
 Install: 
 
-node.js
+-node.js
 
-discord.js
+-discord.js
 
-npm install node-fetch --save
+-npm install node-fetch --save
 
 
 Next:
