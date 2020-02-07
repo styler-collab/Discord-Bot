@@ -15,4 +15,4 @@ Execute:
 node bot.js
 
 Command:
-!fact in the chat and this bot spits facts
+!fact in the chat and this bot spits facts :)
