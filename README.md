@@ -1,7 +1,7 @@
 Random Fact bot
 
 
-To use this bot:
+TO USE THIS BOT:
 
 Install: 
 node.js
